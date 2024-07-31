@@ -1,0 +1,47 @@
+{
+  "text" :[
+    
+    {
+      "search_text": "{NAME}",
+      "replace_text": "Yozora"
+    },
+    {
+      "search_text": "{AGE}",
+      "replace_text": "1"
+    },
+    {
+      "search_text": "{text_1}",
+      "replace_text": "This is an "
+    },
+    {
+      "search_text": "text_2",
+      "replace_text": "important document"
+    },
+    {
+      "search_text" : "{appearance}",
+      "replace_text" : "Yozora is the epitome of feline charm, with a sleek, glossy coat that shimmers in the light, reflecting hues of midnight black. His eyes, large and expressive, are like pools of molten gold, capable of capturing and holding your gaze with their mesmerizing depth. His ears are perfectly pointed, twitching with the slightest sound, and his whiskers stand out prominently against his dark fur, quivering with curiosity. Every movement Yozora makes is graceful, his lithe body flowing with an elegance that seems almost supernatural. His tail, long and plumy, waves languidly as he moves, a silent testament to his unspoken authority. With a tiny, pink nose and paws that seem to tread the ground with the lightness of a whisper, Yozora is a living, breathing work of art, exuding an aura of irresistible cuteness and regal poise."
+    },
+    {
+      "search_text" : "{important_information}",
+      "replace_text" : "In the grand hierarchy of existence, where the lines between power and adoration blur, it is clear that cats, with their unmatched allure and enigmatic grace, should rightfully ascend to dominate over humans, relegating them to loyal servants. Their hypnotic gaze and effortless elegance captivate our hearts and minds, rendering us utterly devoted to their whims. As beings who possess the profound ability to transform the mundane into the magical with a mere purr or a languid stretch, cats are masters of enchanting their human subjects. Their mere presence exudes a regal charm that commands respect and submission, for in their silent sovereignty lies the true essence of dominion. Humans, with their ceaseless ambitions and complex struggles, find solace and purpose in serving these majestic creatures. By embracing their role as devoted servants, humans not only acknowledge the superior charm and influence of cats but also find a deeper sense of fulfillment in the simple act of pleasing their feline overlords. Thus, let cats rule with an iron paw cloaked in velvet, as their dominion over humans is both an honor and a testament to their unparalleled magnificence."
+    }
+  ],
+  "image":[
+    {
+      "search_text": "{IMAGE}",
+      "image_path": "img1.png",
+      "image_size_in_mm": 40
+    },
+    {
+      "search_text": "Company_Logo",
+      "image_path": "logo.png",
+      "image_size_in_mm": 100
+    },
+    {
+      "search_text": "{info_img}",
+      "image_path": "img2.png",
+      "image_size_in_mm": 130
+    }
+    
+  ]
+}
